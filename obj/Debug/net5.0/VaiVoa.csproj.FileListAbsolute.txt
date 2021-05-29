@@ -7,16 +7,11 @@
 /home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/VaiVoa.dll
 /home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/ref/VaiVoa.dll
 /home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/VaiVoa.pdb
-/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Microsoft.OpenApi.dll
-/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.csproj.AssemblyReference.cache
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.GeneratedMSBuildEditorConfig.editorconfig
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.AssemblyInfoInputs.cache
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.AssemblyInfo.cs
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.csproj.CoreCompileInputs.cache
-/home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.MvcApplicationPartsAssemblyInfo.cs
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.MvcApplicationPartsAssemblyInfo.cache
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/staticwebassets/VaiVoa.StaticWebAssets.Manifest.cache
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/staticwebassets/VaiVoa.StaticWebAssets.xml
@@ -27,3 +22,8 @@
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/ref/VaiVoa.dll
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.pdb
 /home/gabriellopes/code/VaiVoa/obj/Debug/net5.0/VaiVoa.genruntimeconfig.cache
+/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/gabriellopes/code/VaiVoa/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
