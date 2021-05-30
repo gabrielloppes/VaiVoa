@@ -38,5 +38,18 @@ namespace VaiVoa.Controllers
 
         return cartao.NumeroCartao;
       }
+
+      // Rota para mostrar todos os cartões de um usuário pelo e-mail dele
+
+      [HttpGet]
+      [Route("{email}")]
+      public async Task<ActionResult<List<GeraCartaoVirtual>>> GetCartoes(
+        [FromServices] GeraCartaoVirtualContext context, string email)
+        {
+          var cartoes = await context.GeraCartaoVirtual
+          .Where(s => s.Email == email)
+          .ToListAsync();
+          return cartoes;
+        }
   }
 }
