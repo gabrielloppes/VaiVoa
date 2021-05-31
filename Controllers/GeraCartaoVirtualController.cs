@@ -49,6 +49,12 @@ namespace VaiVoa.Controllers
           var cartoes = await context.GeraCartaoVirtual
           .Where(s => s.Email == email)
           .ToListAsync();
+
+          // Tratamento de erro caso um e-mail pesquisado não esteja persistido no banco de dados
+          if(!cartoes.Any())
+          {
+            return NotFound("Desculpe, nenhum cartão encontrado, solicite um novo cartão e tente novamente!");
+          }
           return cartoes;
         }
   }
